@@ -29,7 +29,7 @@ word is assumed to be a tokenised and normalised string
 
 After LDA has been performed, topics can be classified by investors so as to study important key words or phrases regarding company related ESG reports to help investors decide if the company would be a good investment
 
-![image](https://user-images.githubusercontent.com/44868878/178102939-700519cf-182e-4883-8190-9df6f03c34b5.png)
+![image](https://user-images.githubusercontent.com/44868878/178103223-1898a63e-d6e3-44be-8406-ad5032e2d0fe.png)
 
 Step 2: Using Light Gradient Booster, investors can add in additional features to decide if the company has a category that investors are looking for. These categories can be set by investors and can be used to predict a companies report. Once all reports has been predicted, investors would be able to view which category the company is leaning towards and decide if the company would be a good investment.
 
