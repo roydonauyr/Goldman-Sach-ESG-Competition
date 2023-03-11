@@ -1,4 +1,4 @@
-# Goldman-Sach-ESG-Comp
+# Goldman-Sach-ESG-Competition
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/Goldman-Sach-ESG-Competition)
 ![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/Goldman-Sach-ESG-Competition)
 ![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/Goldman-Sach-ESG-Competition)
