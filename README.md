@@ -1,9 +1,9 @@
 # Goldman-Sach-ESG-Comp
-![GitHub](https://img.shields.io/github/license/Interstellarkai/Goldman-Sach-ESG-Comp)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Interstellarkai/Goldman-Sach-ESG-Comp)
-![GitHub repo size](https://img.shields.io/github/repo-size/Interstellarkai/Goldman-Sach-ESG-Comp)
-![GitHub language count](https://img.shields.io/github/languages/count/Interstellarkai/Goldman-Sach-ESG-Comp)
-![GitHub last commit](https://img.shields.io/github/last-commit/Interstellarkai/Goldman-Sach-ESG-Comp)
+![GitHub](https://img.shields.io/github/license/roydonauyr/Goldman-Sach-ESG-Competition)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/roydonauyr/Goldman-Sach-ESG-Competition)
+![GitHub repo size](https://img.shields.io/github/repo-size/roydonauyr/Goldman-Sach-ESG-Competition)
+![GitHub language count](https://img.shields.io/github/languages/count/roydonauyr/Goldman-Sach-ESG-Competition)
+![GitHub last commit](https://img.shields.io/github/last-commit/roydonauyr/Goldman-Sach-ESG-Competition)
 
 Competition on ESG data modelling and predictions
 
